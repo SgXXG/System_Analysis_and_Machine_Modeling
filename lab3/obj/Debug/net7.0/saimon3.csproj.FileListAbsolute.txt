@@ -1,0 +1,14 @@
+D:\Projects\Rider\saimon3\bin\Debug\net7.0\saimon3.exe
+D:\Projects\Rider\saimon3\bin\Debug\net7.0\saimon3.deps.json
+D:\Projects\Rider\saimon3\bin\Debug\net7.0\saimon3.runtimeconfig.json
+D:\Projects\Rider\saimon3\bin\Debug\net7.0\saimon3.dll
+D:\Projects\Rider\saimon3\bin\Debug\net7.0\saimon3.pdb
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\saimon3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\saimon3.AssemblyInfoInputs.cache
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\saimon3.AssemblyInfo.cs
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\saimon3.csproj.CoreCompileInputs.cache
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\saimon3.dll
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\refint\saimon3.dll
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\saimon3.pdb
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\saimon3.genruntimeconfig.cache
+D:\Projects\Rider\saimon3\obj\Debug\net7.0\ref\saimon3.dll
